@@ -18,8 +18,8 @@ email: 42linoge@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sus caras de dejaron entrever en la niebla y descubrimos que tan
   pequeños eramos en realidad.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/excelbar" # the subpath of your site, e.g. /blog
+url: "https://clinoge.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 42linoge
 github_username:  clinoge
 
